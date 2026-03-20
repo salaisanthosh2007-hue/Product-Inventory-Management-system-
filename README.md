@@ -146,7 +146,7 @@
 
     👩‍💻 Developed By
 
-    Suvitha
+    salai santhosh
 
     Backend Development Project
     Nan Mudhalvan Program
